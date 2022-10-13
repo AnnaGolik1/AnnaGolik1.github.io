@@ -1,24 +1,38 @@
+
 *{
 padding: 0;
 margin: 0;
 font-family: 'Josefin Sans', sans-serif;
 box-sizing: border-box;
 }
-.about{
+body{
 	width: 100%;
 	padding: 100px 0px;
-	background-color: #5e5a5a;
+	background-color: #272627;
 }
-.about img{
+img{
 	height: auto;
 	width: 430px;
 }
 
+
 h2{
-	color: black;
+	color: white;
 	margin: 20px 0px 20px;
 	font-size: 50px;
-}
-h5{
 	
 }
+h5{
+	color: yellow;
+	margin: 20px 0px 20px;
+	font-size: 25px;
+}
+p {
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+span {
+	color: yellow;
+}
+
